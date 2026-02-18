@@ -27,4 +27,3 @@ Route::get('/sqlite', function(){
     }
 
 });
-''
